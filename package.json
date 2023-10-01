@@ -1,7 +1,10 @@
 {
     "name": "womginx",
     "version": "1.0.0",
-    "description": "Fastest browser",
+    "description": "",
+    "engines": {
+        "node": "18.18.0"
+    },
     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
@@ -16,11 +19,10 @@
     "bugs": {
         "url": "https://github.com/SiliconNetwork/womginx/issues"
     },
-    "homepage": "https://google.com",
+    "homepage": "https://womginx.arph.org",
     "dependencies": {
         "nginx": "latest",
         "certbot": "latest",
-        "nodejs": "18.18.0",
         "wombat": "latest"
     }
 }
