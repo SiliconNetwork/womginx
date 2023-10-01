@@ -1,7 +1,8 @@
 {
     "name": "womginx",
     "version": "1.0.0",
-    "description": "": {
+    "description": "",
+    "scripts": {
         "start": "node index.js",
         "build": "cd womginx/public/wombat && npm install && npm run build-prod",
         "test": "echo \"No test specified\" && exit 1",
