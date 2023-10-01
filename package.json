@@ -4,7 +4,7 @@
     "description": "",
     "scripts": {
         "start": "node index.js",
-        "build": "cd womginx/public/wombat && npm install && npm run build-prod",
+        "build": "cd wombat && npm install && npm run build-prod",
         "test": "echo \"No test specified\" && exit 1",
         "docker-up": "sudo docker-compose up -d",
         "docker-down": "sudo docker-compose down",
