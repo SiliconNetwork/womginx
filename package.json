@@ -1,7 +1,7 @@
 {
     "name": "womginx",
     "version": "1.0.0",
-    "description": "Your project description here",
+    "description": "Fastest browser",
     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
@@ -12,15 +12,15 @@
         "url": "git+https://github.com/SiliconNetwork/womginx.git"
     },
     "author": "Your Name",
-    "license": "ISC",
+    "license": "AGPL-3.0",
     "bugs": {
         "url": "https://github.com/SiliconNetwork/womginx/issues"
     },
-    "homepage": "https://github.com/SiliconNetwork/womginx#readme",
+    "homepage": "https://google.com",
     "dependencies": {
-        // Add your project dependencies here
-    },
-    "devDependencies": {
-        // Add your development dependencies here
+        "nginx": "latest",
+        "certbot": "latest",
+        "nodejs": "14.x",
+        "wombat": "latest"
     }
 }
