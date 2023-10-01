@@ -23,7 +23,7 @@
     "dependencies": {
         "nginx": "latest",
         "certbot": "latest",
-        "nodejs": "14.x",
+        "nodejs": "16.x",
         "wombat": "latest"
     }
 }
