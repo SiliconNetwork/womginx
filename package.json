@@ -1,0 +1,26 @@
+{
+    "name": "womginx",
+    "version": "1.0.0",
+    "description": "Your project description here",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SiliconNetwork/womginx.git"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SiliconNetwork/womginx/issues"
+    },
+    "homepage": "https://github.com/SiliconNetwork/womginx#readme",
+    "dependencies": {
+        // Add your project dependencies here
+    },
+    "devDependencies": {
+        // Add your development dependencies here
+    }
+}
